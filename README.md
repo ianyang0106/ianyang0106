@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Xiaoyuan Yang.
-- 🔭 I’m currently working on:
+- 🔭 I’m currently working on:  
   1.Protoplanetary Disks  
   2.Searching for Compact Objects using LAMOST
      
